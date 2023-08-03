@@ -1,4 +1,4 @@
-## GenreGenie: Movie Genre Prediction Model
+
 # Introduction
 GenreGenie is an innovative movie genre prediction model designed to accurately determine the genre of a movie solely from its synopsis. The primary objective of this project is to harness the power of cutting-edge natural language processing (NLP) techniques and neural networks to unlock the genre hidden within a movie's narrative. With GenreGenie, filmmakers, streaming platforms, and movie enthusiasts can quickly and effortlessly identify the genre of any movie, enhancing the movie-watching experience.
 
